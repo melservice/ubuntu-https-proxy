@@ -1,4 +1,4 @@
-FROM melservice/ubuntu-https-proxy:latest
+FROM melservice/ubuntu-webserver:latest
 
 LABEL version="1.0" \
 	description="https-Proxy als Service auf Ubuntu-Basis" \
